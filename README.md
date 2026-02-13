@@ -1,0 +1,2 @@
+# MacroScript
+允许把javascript内嵌到任何文本文件中作为预处理器
